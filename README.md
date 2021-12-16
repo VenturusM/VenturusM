@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VenturusM
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 📫 Venturus#5061
+- 📫 Venturus#5061 on Discord
 
 <!---
 VenturusM/VenturusM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
